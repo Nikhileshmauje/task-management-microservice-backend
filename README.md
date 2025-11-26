@@ -138,12 +138,3 @@ When a task is created, a message is published to RabbitMQ → consumed by Notif
 
 **Nikhilesh Mauje**
 Backend & DevOps | Microservices | Docker | MERN Stack
-
----
-
-If you want, I can also:
-
-* Create a professional **GitHub repo description**
-* Add badges (Docker, Node.js, RabbitMQ, MongoDB)
-* Add diagrams (architecture flow)
-* Write a polished **commit history strategy**
